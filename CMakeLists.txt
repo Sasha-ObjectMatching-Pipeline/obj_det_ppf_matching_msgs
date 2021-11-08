@@ -20,12 +20,18 @@ add_service_files(
   FILES
   Id.srv
   SparseCN.srv
+  det_and_compare_obj.srv
+  extract_permanent_objects.srv
 )
 
 add_message_files(FILES
    Plane.msg
    Table.msg
    TableViewpoints.msg
+   CandidateObject.msg
+   ObjectMatch.msg
+   Object.msg
+   ObjectStateClass.msg
 )
 
 
