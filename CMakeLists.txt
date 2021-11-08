@@ -5,6 +5,7 @@ find_package(catkin REQUIRED
 rospy
 std_msgs
 actionlib_msgs
+sensor_msgs
 message_generation
 geometry_msgs
 )
