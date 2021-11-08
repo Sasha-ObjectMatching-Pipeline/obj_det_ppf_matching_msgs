@@ -40,7 +40,8 @@ add_message_files(FILES
    std_msgs  
    actionlib_msgs
    geometry_msgs
+   sensor_msgs
  )
 
-catkin_package( CATKIN_DEPENDS actionlib_msgs std_msgs message_runtime )
+catkin_package( CATKIN_DEPENDS actionlib_msgs std_msgs sensor_msgs message_runtime )
 include_directories()
