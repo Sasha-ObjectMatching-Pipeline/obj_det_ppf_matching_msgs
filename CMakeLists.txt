@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required(VERSION 2.9)
-project(edith_msgs)
+project(obj_det_ppf_matching_msgs)
 
 find_package(catkin REQUIRED  
 rospy

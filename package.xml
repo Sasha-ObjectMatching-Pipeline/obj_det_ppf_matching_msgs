@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <package format="2">
-  <name>edith_msgs</name>
+  <name>obj_det_ppf_matching_msgs</name>
   <version>0.0.0</version>
-  <description>The edith_msgs package</description>
+  <description>The obj_det_ppf_matching_msgs package</description>
 
   <maintainer email="markus.j.leitner@tuwien.ac.at">Markus Leitner</maintainer>
 
